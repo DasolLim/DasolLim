@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dasol (David) Lim</h1>
-<h3 align="center">A passionate second year software engineer</h3>
+<h3 align="center">A passionate fourth year software engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="aboutMe.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasollim&label=Profile%20views&color=0e75b6&style=flat" alt="dasollim" /> </p>
 
-- 🔭 I’m currently working on **communication system for Western solar car club, Suntang, using C and STM32IDE software**
+- 🔭 I’m currently working on **AI-Powered Fitness Trainer using MediaPipe and OpenPose Python Libraries***
 
-- 🌱 I’m currently learning **C Programming Language**
+- 🌱 I’m currently learning **AI-Model Training**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DasolLim](https://github.com/DasolLim)
 
