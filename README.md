@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI-Powered Fitness Trainer using MediaPipe and OpenPose Python Libraries***
 
-- 🌱 I’m currently learning **AI-Model Training**
+- 🌱 I’m currently learning **AI-Model Training using Google Colab and Python Library (PyTorch)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DasolLim](https://github.com/DasolLim)
 
