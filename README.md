@@ -63,7 +63,3 @@ Dasol_Lim = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DasolLim&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DasolLim&theme=transparent" alt="GitHub Streak" />
-</p>
