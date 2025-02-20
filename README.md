@@ -1,5 +1,6 @@
 <h1 align="center">🌙 Hi, I'm Dasol (David) Lim</h1>
 <h3 align="center">A Passionate Fourth-Year Software Engineer</h3>
+<h5 align="center">JavaScript, Python, Java, ML, React, TypeScript, AWS</h5>
 
 <p align="center">
   <img src="aboutMe.gif" alt="Coding" width="400">
