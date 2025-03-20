@@ -8,7 +8,6 @@
 
 <h4 align="center">🚀 Let's Connect: <a href="https://www.linkedin.com/in/dlim67/">LinkedIn</a> | <a href="mailto:davidlim5774@gmail.com">Gmail</a></h4>
 
-
 ---
 
 ```python
