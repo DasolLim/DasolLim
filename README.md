@@ -26,8 +26,7 @@ Dasol_Lim = {
             "css": ["Bootstrap", "Tailwind"]
         },
         "devOps": ["AWS", "Docker", "GCP"],
-        "databases": ["MongoDB", "MySQL"],
-        "misc": ["NLTK", "Selenium", "FileZilla"]
+        "databases": ["Supabase", "MongoDB", "MySQL"]
     },
     "currentInterest": "Algo Trading",
     "myHobbies": "Travelling, Working Out, Socializing, Volleyball, Swimming",
