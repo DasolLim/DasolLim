@@ -1,6 +1,6 @@
 <h1 align="center">🌙 Hi, I'm Dasol (David) Lim</h1>
 <h3 align="center">Passionate and Result-Oriented Software Engineer</h3>
-<h5 align="center">JavaScript, Python, TypeScript, React, AWS, GCP</h5>
+<h5 align="center">Python, JavaScript, TypeScript, React</h5>
 
 <p align="center">
   <img src="aboutMe.gif" alt="Coding" width="400">
@@ -15,22 +15,22 @@
 Dasol_Lim = {
     "pronouns": "He | Him",
     "code": ["JavaScript", "Python", "Java", "ML", "React", "TypeScript"],
-    "askMeAbout": ["Web Development", "Machine Learning", "Fitness (Weight Lifting)", "NBA"],
+    "askMeAbout": ["Fullstack React based projects", "API related issues", "Best AI tools"],
     "technologies": {
+        "backEnd": {
+            "python": ["Flask", "PyTorch", "TensorFlow", "MediaPipe"]
+            "js": ["Node.js", "Express"],
+        },
         "frontEnd": {
             "js": ["React", "TypeScript", "Next"],
             "css": ["Bootstrap", "Tailwind"]
-        },
-        "backEnd": {
-            "js": ["Node.js", "Express"],
-            "python": ["Flask", "PyTorch", "TensorFlow", "MediaPipe"]
         },
         "devOps": ["AWS", "Docker", "GCP"],
         "databases": ["MongoDB", "MySQL"],
         "misc": ["NLTK", "Selenium", "FileZilla"]
     },
-    "currentProject": "Developing an AI-powered fitness trainer using MediaPipe and OpenPose",
-    "myHobbies": "Travelling, Working Out, Socializing, Volleyball, Swimming, AI Projects",
+    "currentInterest": "Algo Trading",
+    "myHobbies": "Travelling, Working Out, Socializing, Volleyball, Swimming",
     "funFact": "The first computer 'bug' was a real-life bug! 🐞"
 }
 ```
