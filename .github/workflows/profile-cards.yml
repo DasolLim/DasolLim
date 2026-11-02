@@ -3,6 +3,9 @@ name: Update profile cards
 on:
   schedule: [{ cron: "0 */12 * * *" }]   # every 12 hours
   workflow_dispatch:                      # "Run workflow" button
+  push:                                   # rerun when the README or this file changes
+    branches: [main]
+    paths: [README.md, .github/workflows/profile-cards.yml]
 
 permissions:
   contents: write
